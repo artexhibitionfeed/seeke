@@ -63,3 +63,5 @@ Public product overview.
 
 <img width="1280" height="720" alt="clipboard" src="https://github.com/user-attachments/assets/3e6361e3-f1f8-4c0d-8c8a-c26e02b18582" />
 <img width="1277" height="718" alt="clipboard" src="https://github.com/user-attachments/assets/f06e3ed0-c5ca-4ef2-8405-b9c49d80a5cd" />
+New York exhibition discovery.
+<img width="1049" height="791" alt="clipboard" src="https://github.com/user-attachments/assets/c037f178-09c1-4ff7-aeb6-9afdb20bc6fb" />
